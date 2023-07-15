@@ -1,6 +1,24 @@
 # Passiflori Cursor
 [![For](https://img.shields.io/badge/For-Passiflori-e3b6cf)](https://twitch.tv/Passiflori)
-[![By](https://img.shields.io/badge/By-Sentropic-purple)](https://twitch.tv/Sentropic)
+[![By](https://img.shields.io/badge/By-Sentropic-purple)](https://twitch.tv/SentropicSwirl)
+
+<p align="center">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Normal%20x8.gif" alt="Normal Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Link_Select%20x8.gif" alt="Link Select Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Working_Background%20x8.gif" alt="Working In Background Cursor" >
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Busy%20x8.gif" alt="Busy Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Alternate_Select%20x8.gif" alt="Alternate Select Cursor"><br>
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Help_Select%20x8.gif" alt="Help Select Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Unavailable%20x8.gif" alt="Unavailable Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Precision_Select%20x8.gif" alt="Precision Select Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Text_Select%20x8.gif" alt="Text Select Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Handwriting%20x8.gif" alt="Handwriting Cursor"><br>
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Vertical%20x8.gif" alt="Vertical Resize Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Horizontal%20x8.gif" alt="Horizontal Resize Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Resize_1%20x8.gif" alt="Diagonal Resize 1 Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Resize_2%20x8.gif" alt="Diagonal Resize 2 Cursor">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Sentropic/PassifloriCursor/master/x8/Move%20x8.gif" alt="Move Cursor">
+</p>
 
 ## 🔧 Installation instructions
 
