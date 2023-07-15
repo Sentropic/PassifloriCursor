@@ -27,7 +27,7 @@
   <ol>
     <li> <a href=https://github.com/Sentropic/PassifloriCursor/releases/latest/download/Passiflori_Cursor.zip>Download the zip file.</a>
     <li> Decompress the downloaded zip file.
-    <li> Right click the file "Installer.inf", and select "Install":<br>
+    <li> <b>*Right click*</b> the file "Installer.inf", and select "Install":<br>
     <img src="https://github.com/Sentropic/PassifloriCursor/blob/master/img/Install%20Button.png" alt="Install button screenshot">
     <li> After installation, the Mouse Properties window will automatically open in your task bar. Select the "PassiCursor" scheme:<br>
     <img src="https://github.com/Sentropic/PassifloriCursor/blob/master/img/Pointer%20Scheme%20Selection.png" alt="Pointer scheme selection screenshot"><br>
@@ -42,7 +42,7 @@
   <ol>
     <li> <a href=https://github.com/Sentropic/PassifloriCursor/releases/latest/download/Passiflori_Cursor.zip>Descarga el archivo zip.</a>
     <li> Descomprime el archivo zip descargado.
-    <li> Dale click derecho al archivo "Installer.inf", y selecciona "Instalar":<br>
+    <li> Dale <b>*click derecho*</b> al archivo "Installer.inf", y selecciona "Instalar":<br>
     <img src="https://github.com/Sentropic/PassifloriCursor/blob/master/img/Install%20Button.png" alt="Captura de pantalla de botón de instalar">
     <li> Después de la instalación, la ventana de Propiedades del Ratón se abrirá automáticamente en tu barra de tareas. Selecciona el esquema "PassiCursor":<br>
     <img src="https://github.com/Sentropic/PassifloriCursor/blob/master/img/Pointer%20Scheme%20Selection.png" alt="Captura de pantalla de selección de esquema de puntero"><br>
