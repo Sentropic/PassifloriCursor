@@ -1,0 +1,59 @@
+; If you're trying to install the cursor and ended up here,
+; instead of double clicking this file, right click it, then click "Install"!
+
+; Si estás tratando de instalar el cursor y terminaste aquí,
+; en lugar de darle doble click a este archivo, dale click derecho, ¡luego dale "Instalar"!
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.exe shell32.dll,Control_RunDLL main.cpl,,1"
+
+; -- Common Information
+
+[Scheme.Cur]
+"Busy.ani"
+"Help_Select.ani"
+"Horizontal.ani"
+"Link_Select.ani"
+"Move.ani"
+"Normal.ani"
+"Precision_Select.ani"
+"Resize_1.ani"
+"resize_2.ani"
+"Text_Select.ani"
+"Unavailable.ani"
+"Vertical.ani"
+"Working_Background.ani"
+"Handwriting.ani"
+"Alternate_Select.ani"
+
+[Strings]
+CUR_DIR		= "Cursors\PassiCursor"
+SCHEME_NAME	= "PassiCursor"
+pointer		= "Normal.ani"
+help		= "Help_Select.ani"
+work		= "Working_Background.ani"
+busy		= "Busy.ani"
+cross		= "Precision_Select.ani"
+text		= "Text_Select.ani"
+hand		= "Handwriting.ani"
+unavailable	= "Unavailable.ani"
+vert		= "Vertical.ani"
+horz		= "Horizontal.ani"
+dgn1		= "Resize_1.ani"
+dgn2		= "Resize_2.ani"
+move		= "Move.ani"
+alternate	= "Alternate_Select.ani"
+link		= "Link_Select.ani"
